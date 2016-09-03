@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"beautify.JSfiles": [
+		"js",
+		"ts",
+		"json",
+		"jsbeautifyrc",
+		"jshintrc"
+	]
+}
